@@ -1,0 +1,52 @@
+.plano_de_fundo{
+    background-image:url("img/capa\ homem\ aranha.jpg");
+    max-width: auto ;
+    border: 15%;
+}
+#title{
+    text-transform: uppercase;
+    font-family: "Times New Roman" ;
+    background: white;
+    text-align: center;
+    color:red;
+    border:3px solid black;
+    border-radius: 5px;
+    margin: 0px ;
+    margin-bottom: 15px;
+    padding:5px;
+    
+}
+.perfil{
+    border: 3px solid black;
+    border-radius: 5%;
+    margin: 0%;
+    
+}
+.subtitle{
+    font-family: "Times New Roman";
+    font-size: medium;
+    text-align:center
+    border-style:dashed ;
+    border-radius: 5%;
+    background-color: white;
+    margin: 0px;
+    margin-bottom: 5px;
+}
+.feed{
+    background: white;
+    border:3px solid black;
+    border-radius:5%;
+    text-align: center;
+    font-family:"Times New Roman";
+}
+.post{
+    border:3px solid black;
+}
+.comentario{
+    background: white;
+    border: 3px solid black;
+    border-radius: 5%;
+    text-align: left;
+    font-family: "Times New Roman";
+    
+}
